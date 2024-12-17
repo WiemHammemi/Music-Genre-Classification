@@ -1,0 +1,10 @@
+flask
+flask_cors
+tensorflow
+joblib
+pydub
+scikit-learn
+librosa
+numpy 
+xmlrunner
+
